@@ -1,7 +1,3 @@
-Aquí tienes un ejemplo de cómo podría ser el archivo `README.md` para tu aplicación de consulta de clima utilizando React y Bootstrap:
-
----
-
 # Aplicación Web del Clima 🌤️
 
 Esta aplicación permite a los usuarios consultar el clima actual de una ciudad y país específicos utilizando la API de [OpenWeatherMap](https://openweathermap.org/). La aplicación muestra los detalles del clima y gestiona los errores en caso de que la ciudad o el país ingresados no existan.
